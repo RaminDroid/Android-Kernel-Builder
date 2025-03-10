@@ -1,8 +1,8 @@
 [  {
     "kernelSource": {
       "name": "EurekaKernel",
-      "repo": "https://github.com/crazo7924/android_kernel_samsung_a30",
-      "branch": "EurekaR24U",
+      "repo": "https://github.com/xiihaiqal/kernel_xiaomi_ginkgo",
+      "branch": "fıfteenKSU",
       "device": "a30"
     },
     "withKernelSU": true,
