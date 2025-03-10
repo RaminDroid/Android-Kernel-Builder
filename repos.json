@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "RyzenKernel",
-      "repo": "https://github.com/tejas101k/kernel_xiaomi_ginkgo",
-      "branch": "main",
-      "device": "ginkgo"
+      "name": "Eureka",
+      "repo": "https://github.com/eurekadevelopment/Eureka-Kernel",
+      "branch": "R24U",
+      "device": "a30"
     },
     "withKernelSU": true,
     "toolchains": [
