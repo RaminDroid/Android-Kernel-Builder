@@ -2,7 +2,7 @@
     "kernelSource": {
       "name": "RyzenKernel",
       "repo": "https://github.com/tejas101k/kernel_xiaomi_ginkgo",
-      "branch": "tejas101k",
+      "branch": "main",
       "device": "ginkgo"
     },
     "withKernelSU": true,
