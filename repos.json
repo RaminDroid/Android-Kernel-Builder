@@ -1,11 +1,11 @@
 [  {
     "kernelSource": {
-      "name": "HawaiiKernel",
-      "repo": "https://github.com/snapzenic/Hawaii_android_kernel_samsung_a24",
-      "branch": "HawaiiU8",
-      "device": "a24"
+      "name": "EurekaKernel",
+      "repo": "https://github.com/eurekadevelopment/Eureka-Kernel/tree/R24U",
+      "branch": "EurekaR24U",
+      "device": "a30"
     },
-    "withKernelSU": false,
+    "withKernelSU": true,
     "toolchains": [
       {
         "repo": "https://android.googlesource.com/platform/prebuilts/gas/linux-x86",
