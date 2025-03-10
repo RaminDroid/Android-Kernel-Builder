@@ -1,8 +1,8 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
-      "repo": "https://github.com/crazo7924/android_kernel_samsung_a30",
-      "branch": "crazo7924",
+      "name": "EurekaKernel31",
+      "repo": "https://github.com/eurekadevelopment/android_device_samsung_exynos7885",
+      "branch": "eurekadevelopment",
       "device": "a30"
     },
     "withKernelSU": true,
