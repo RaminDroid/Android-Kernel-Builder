@@ -1,7 +1,7 @@
 [  {
     "kernelSource": {
-      "name": "Eureka",
-      "repo": "https://github.com/eurekadevelopment/Eureka-Kernel",
+      "name": "HyperSonic",
+      "repo": "https://github.com/topser9/kernel_samsung_universal7885",
       "branch": "R24U",
       "device": "a30"
     },
