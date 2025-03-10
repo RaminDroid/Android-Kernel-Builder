@@ -1,7 +1,7 @@
 [  {
     "kernelSource": {
-      "name": "EurekaR24U",
-      "repo": "https://github.com/eurekadevelopment/Eureka-Kernel",
+      "name": "EurekaR13-KSU",
+      "repo": "https://github.com/eurekadevelopment/Eureka-Kernel/tree/R13-OneUI3-KSU",
       "branch": "R24U",
       "device": "a30"
     },
