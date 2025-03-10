@@ -1,8 +1,8 @@
 [  {
     "kernelSource": {
       "name": "EurekaKernel31",
-      "repo": "https://github.com/eurekadevelopment/android_device_samsung_exynos7885",
-      "branch": "eurekadevelopment",
+      "repo": "https://github.com/eurekadevelopment/android_device_samsung_exynos7885/tree/android-11",
+      "branch": "Gabriel2392",
       "device": "a30"
     },
     "withKernelSU": true,
