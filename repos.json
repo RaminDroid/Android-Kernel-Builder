@@ -2,7 +2,7 @@
     "kernelSource": {
       "name": "miku-KernelSU",
       "repo": "https://github.com/crazo7924/android_kernel_samsung_a30",
-      "branch": "RD",
+      "branch": "crazo7924",
       "device": "a30"
     },
     "withKernelSU": true,
