@@ -1,7 +1,7 @@
 [  {
     "kernelSource": {
       "name": "EurekaKernel",
-      "repo": "https://github.com/eurekadevelopment/Eureka-Kernel/tree/R24U",
+      "repo": "https://github.com/crazo7924/android_kernel_samsung_a30",
       "branch": "EurekaR24U",
       "device": "a30"
     },
