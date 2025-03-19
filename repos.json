@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
       "name": "EurekaKernel",
-      "repo": "https://github.com/RaminDroid/Eureka-Kernel-exynos7885",
+      "repo": "https://github.com/eurekadevelopment/Eureka-Kernel",
       "branch": "R24U",
-      "device": "exynos7885"
+      "device": "A305"
     },
     "withKernelSU": true,
     "toolchains": [
