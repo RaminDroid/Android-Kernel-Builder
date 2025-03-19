@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "CarbonKernel_a30",
-      "repo": "https://github.com/RaminDroid/Kintsugi",
+      "name": "CarbonKernel",
+      "repo": "https://github.com/RaminDroid/android_kernel_samsung_a31",
       "branch": "master",
-      "device": "unevirsal7885"
+      "device": "a31"
     },
     "withKernelSU": true,
     "toolchains": [
