@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "EurekaR13-KSU",
-      "repo": "https://github.com/eurekadevelopment/Eureka-Kernel/tree/R13-OneUI3-KSU",
+      "name": "EurekaKernel",
+      "repo": "https://github.com/RaminDroid/Eureka-Kernel-a30",
       "branch": "R24U",
-      "device": "a30"
+      "device": "exynos7885"
     },
     "withKernelSU": true,
     "toolchains": [
