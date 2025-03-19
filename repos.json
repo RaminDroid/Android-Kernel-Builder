@@ -1,6 +1,6 @@
 [  {
     "kernelSource": {
-      "name": "CarbonKernel",
+      "name": "CarbonKernel_a30",
       "repo": "https://github.com/momojuro/Kintsugi",
       "branch": "master",
       "device": "a30"
