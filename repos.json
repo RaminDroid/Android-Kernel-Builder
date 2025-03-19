@@ -1,8 +1,8 @@
 [  {
     "kernelSource": {
-      "name": "HyperSonicKernel",
-      "repo": "https://github.com/topser9/kernel_samsung_universal7885",
-      "branch": "main",
+      "name": "CarbonKernel",
+      "repo": "https://github.com/momojuro/Kintsugi",
+      "branch": "master",
       "device": "a30"
     },
     "withKernelSU": true,
