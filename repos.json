@@ -1,7 +1,7 @@
 [  {
     "kernelSource": {
       "name": "EurekaKernel",
-      "repo": "https://github.com/RaminDroid/Eureka-Kernel-a30",
+      "repo": "https://github.com/RaminDroid/Eureka-Kernel-exynos7885",
       "branch": "R24U",
       "device": "exynos7885"
     },
