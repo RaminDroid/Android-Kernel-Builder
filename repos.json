@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "CarbonKernel",
-      "repo": "https://github.com/momojuro/Kintsugi",
+      "name": "HyperSonic",
+      "repo": "https://github.com/RaminDroid/kernel_samsung_unevirsal7885",
       "branch": "master",
-      "device": "a30"
+      "device": "unevirsal7885"
     },
     "withKernelSU": true,
     "toolchains": [
