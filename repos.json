@@ -2,7 +2,7 @@
     "kernelSource": {
       "name": "SixTeen",
       "repo": "https://github.com/Kyvangka1610/android_kernel_xiaomi_ginkgo",
-      "branch": "main",
+      "branch": "Kyvangka1610",
       "device": "ginkgo"
     },
     "withKernelSU": true,
