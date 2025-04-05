@@ -1,8 +1,8 @@
 [  {
     "kernelSource": {
-      "name": "SixTeen",
-      "repo": "https://github.com/Kyvangka1610/android_kernel_xiaomi_ginkgo",
-      "branch": "Kyvangka1610",
+      "name": "Quicksliver_ginkgo",
+      "repo": "https://github.com/adithya2306thya2306/android_kernel_xiaomi_ginkgo",
+      "branch": "note8hype",
       "device": "ginkgo"
     },
     "withKernelSU": true,
