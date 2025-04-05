@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "HyperSonic",
-      "repo": "https://github.com/RaminDroid/kernel_samsung_unevirsal7885",
-      "branch": "master",
-      "device": "unevirsal7885"
+      "name": "SixTeen",
+      "repo": "https://github.com/Kyvangka1610/android_kernel_xiaomi_ginkgo",
+      "branch": "main",
+      "device": "ginkgo"
     },
     "withKernelSU": true,
     "toolchains": [
